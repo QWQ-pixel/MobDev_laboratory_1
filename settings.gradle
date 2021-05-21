@@ -1,0 +1,4 @@
+include ':yandexdriver'
+include ':yandexmap'
+include ':googlemap'
+rootProject.name = "ru.mirea.kuznetsova.laboratory1"
